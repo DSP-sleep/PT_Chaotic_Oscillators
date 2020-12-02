@@ -26,6 +26,8 @@ The model with the typical chaotic symmetric parameter set investigated in the p
 Load this .psc file for SSA simulation to replicate the study.
 There also is Typical_oscillation.psc for the typical oscillatory parameter set.
 
+Numerical integration of ODEs shown in Fig. 5 and Fig. S5 was conducted by using Mathematica with Yamaguchi_et.al._iScience_2020_Mathematica_code.nb file. 
+
 # Requirement
 Python
 * numpy
@@ -35,4 +37,5 @@ Python
 * Stochpy
 * matplotlibb
 * multiproccessing
- 
+
+Mathematica
