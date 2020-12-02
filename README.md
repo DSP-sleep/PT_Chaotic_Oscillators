@@ -38,4 +38,4 @@ Python
 * matplotlibb
 * multiproccessing
 
-Mathematica
+Wolfram Mathematica
