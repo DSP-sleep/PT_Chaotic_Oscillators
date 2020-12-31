@@ -4,6 +4,8 @@ PT_Chaotic_Oscillators contains codes used to study the posttranslational chaoti
 
 # Usage
 
+For the test of efficient parameter search, use optuna_search.ipynb (beta)
+
 For the random parameter search, use Random_search.ipynb. 
 This code seeks for chaotic/oscillatory parameter sets by a random search in a high dimensional parameter space.
 You should set the path to save the results.
